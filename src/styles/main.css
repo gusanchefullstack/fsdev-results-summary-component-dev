@@ -12,7 +12,7 @@
 body {
   font-family: var(--font-family);
   font-size: var(--font-size-base);
-  background-color: var(--color-pale-blue);
+  background-color: var(--color-white);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,9 +23,6 @@ body {
 /* Card */
 .card {
   background-color: var(--color-white);
-  border-radius: 2rem;
-  box-shadow: 0 1.5rem 3rem hsla(241, 81%, 54%, 0.15);
-  max-width: 46rem;
   width: 100%;
 }
 
@@ -200,4 +197,71 @@ body {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+/* Tablet */
+@media (min-width: 600px) {
+  body {
+    background-color: var(--color-pale-blue);
+  }
+
+  .card {
+    border-radius: 2rem;
+    box-shadow: 0 1.5rem 3rem hsla(241, 81%, 54%, 0.15);
+    max-width: 24rem;
+  }
+
+  .result {
+    border-radius: 2rem;
+  }
+}
+
+/* Desktop */
+@media (min-width: 768px) {
+  .card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 46rem;
+  }
+
+  .result {
+    border-radius: 2rem;
+    padding: 2.5rem 3.5rem 3rem;
+  }
+
+  .result__title {
+    font-size: 1.5rem;
+  }
+
+  .result__score {
+    width: 12.5rem;
+    height: 12.5rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .result__score-value {
+    font-size: 4.5rem;
+  }
+
+  .result__score-total {
+    font-size: 1.125rem;
+  }
+
+  .result__rank {
+    font-size: 2rem;
+    margin-bottom: 0.875rem;
+  }
+
+  .result__description {
+    font-size: 1.125rem;
+    max-width: 16.5rem;
+  }
+
+  .summary {
+    padding: 2.5rem 2.5rem 2.5rem;
+  }
+
+  .summary__title {
+    font-size: 1.5rem;
+  }
 }
