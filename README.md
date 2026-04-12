@@ -44,4 +44,10 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavosanchezgalarza/)
+- 🐙 [GitHub](https://github.com/gusanchefullstack)
+- 📝 [Hashnode](https://hashnode.com/@gusanchedev)
+- 🐦 [X / Twitter](https://x.com/gusanchedev)
+- 🦋 [Bluesky](https://bsky.app/profile/gusanchedev.bsky.social)
+- 🏕️ [freeCodeCamp](https://www.freecodecamp.org/gusanchedev)
+- 🏆 [Frontend Mentor](https://www.frontendmentor.io/profile/gusanchefullstack)
