@@ -186,6 +186,16 @@ body {
   font-size: 1.125rem;
   font-weight: var(--font-weight-bold);
   cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.summary__button:hover,
+.summary__button:focus-visible {
+  background: linear-gradient(
+    to bottom,
+    var(--gradient-light-slate-blue),
+    var(--gradient-light-royal-blue)
+  );
 }
 
 /* Attribution */
