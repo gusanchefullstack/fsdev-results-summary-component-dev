@@ -44,10 +44,10 @@ Users should be able to:
 
 ## Author
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavosanchezgalarza/)
-- 🐙 [GitHub](https://github.com/gusanchefullstack)
-- 📝 [Hashnode](https://hashnode.com/@gusanchedev)
-- 🐦 [X / Twitter](https://x.com/gusanchedev)
-- 🦋 [Bluesky](https://bsky.app/profile/gusanchedev.bsky.social)
-- 🏕️ [freeCodeCamp](https://www.freecodecamp.org/gusanchedev)
-- 🏆 [Frontend Mentor](https://www.frontendmentor.io/profile/gusanchefullstack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosanchezgalarza/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusanchefullstack)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@gusanchedev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gusanchedev)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gusanchedev.bsky.social)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/gusanchedev)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/gusanchefullstack)
