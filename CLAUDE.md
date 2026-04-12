@@ -9,6 +9,15 @@
 7. The screenshots inside @design folder reflect the expected output for the several screens: mobile, desktop. Infer the best responsive design for tablet.
 8. Initialize local git repo. Only with my approval create a repo in github. Avoid that figma designs be pushed to github (with .gitignore file).
 9. Split the implementation tasks/parts of the project in separated commits .
+10. Update the Author section in README with the following contact info. Add icons to each related link address.
+    https://www.linkedin.com/in/gustavosanchezgalarza/
+    https://github.com/gusanchefullstack
+    https://hashnode.com/@gusanchedev
+    https://x.com/gusanchedev
+    https://bsky.app/profile/gusanchedev.bsky.social
+    https://www.freecodecamp.org/gusanchedev
+    https://www.frontendmentor.io/profile/gusanchefullstack
+
 
 
 # Architecture
