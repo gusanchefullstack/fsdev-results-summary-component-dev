@@ -11,7 +11,7 @@
 9. Split the implementation tasks/parts of the project in separated commits .
 
 
-# Architectura
+# Architecture
 1. Implement the project using HTML/CSS
 2. Use vite as deploying server for frontend
 3. The source code should be in src/ folder under the project root.
